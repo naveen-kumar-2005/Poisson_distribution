@@ -69,6 +69,7 @@ else:
 ```
 # Output : 
 
+![image](https://github.com/naveen-kumar-2005/Poisson_distribution/assets/145742865/1866b964-acef-45ef-8287-366d63a7247a)
 
 
 
