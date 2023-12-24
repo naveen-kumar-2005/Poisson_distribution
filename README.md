@@ -1,8 +1,7 @@
 # Fitting Poisson  distribution
 
-# Developed :Naveen kumar.R
+# Developed by :Naveen kumar.R
 # Register No:212223230139
-
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
